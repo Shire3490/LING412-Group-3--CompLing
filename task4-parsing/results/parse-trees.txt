@@ -1,0 +1,31 @@
+S01 | intransitive | Watoto wanacheza
+(S (NP (N watoto)) (VP (V wanacheza)))
+
+S02 | transitive | Mama anatoa kitambaa
+(S (NP (N mama)) (VP (V anatoa) (NP (N kitambaa))))
+
+S03 | ditransitive | Tabo anampa Bibi mfuko
+(S (NP (PROPN tabo)) (VP (V anampa) (NP (N bibi)) (NP (N mfuko))))
+
+S04 | copular_adjective | Kitabu ni kizuri
+(S (NP (N kitabu)) (VP (COP ni) (ADJ kizuri)))
+
+S05 | locative | Mtoto yuko katika nyumba
+(S (NP (N mtoto)) (VP (V yuko) (PP (P katika) (NP (N nyumba)))))
+
+S06 | verb_pp | Bibi anakuja katika nyumba
+(S (NP (N bibi)) (VP (V anakuja) (PP (P katika) (NP (N nyumba)))))
+
+S07 | transitive_pp | Mama anatoa kitambaa katika jikoni
+(S
+  (NP (N mama))
+  (VP (V anatoa) (NP (N kitambaa)) (PP (P katika) (NP (N jikoni)))))
+
+S08 | transitive | Watu wanakula chakula
+(S (NP (N watu)) (VP (V wanakula) (NP (N chakula))))
+
+S09 | transitive | Mwanafunzi anasoma kitabu
+(S (NP (N mwanafunzi)) (VP (V anasoma) (NP (N kitabu))))
+
+S10 | locative | Mti uko katika bustani
+(S (NP (N mti)) (VP (V uko) (PP (P katika) (NP (N bustani)))))

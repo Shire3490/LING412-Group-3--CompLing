@@ -1,0 +1,194 @@
+sentence_id,source_id,source_file,sentence_number,text
+1,SRC002,bbc_news_001.txt,1,Iran yasema akiba yake ya silaha inatosha kwa miaka mingi ijayo
+2,SRC002,bbc_news_001.txt,2,"Mshauri mkuu wa kamanda wa Jeshi la Anga na Anga za Juu la Walinzi wa Mapinduzi ya Kiislamu nchini Iran, Ali Bilali, amesema wataalamu wa sekta ya ulinzi nchini humo wanafanya uchunguzi na kubuni upya vifaa vya kijeshi vilivyotengenezwa Marekani ili kuelewa teknolojia yake na kuzalisha vifaa vinavyofanana."
+3,SRC002,bbc_news_001.txt,3,Bilali pia amesema akiba ya silaha za Iran inatosha kwa miaka mingi ijayo na kwamba vikosi vya jeshi viko tayari kikamilifu kutekeleza operesheni.
+4,SRC002,bbc_news_001.txt,4,"Ameonya kuwa iwapo adui atafanya kosa la kimkakati au kuchukua hatua yoyote isiyo sahihi, Iran itajibu kwa nguvu kubwa ambayo inaweza kusababisha uharibifu mkubwa."
+5,SRC002,bbc_news_001.txt,5,Amesema vikosi vya jeshi vinasubiri hatua yoyote ya uchokozi kutoka kwa adui pamoja na fursa mwafaka ya kujibu.
+6,SRC002,bbc_news_001.txt,6,"""Vikosi vyetu vya jeshi vinasubiri hatua yoyote isiyo sahihi kutoka kwa adui na fursa mwafaka ya kujibu."
+7,SRC002,bbc_news_001.txt,7,"Ikibidi, tutatoa jibu ambalo upande wa pili hautalisahau kamwe,"" amesema Bilali."
+8,SRC003,bbc_news_002.txt,1,Israel yaonya maadui zake kuwa tofauti za kisiasa nchini hazitaizuia kujilinda
+9,SRC003,bbc_news_002.txt,2,"Waziri wa Ulinzi wa Israel, Israel Katz, amesema juhudi za nchi hiyo kukabiliana na Iran bado hazijakamilika, akitoa wito wa umoja wa kitaifa katika kukabiliana na kile alichokiita tishio la nyuklia kutoka Iran."
+10,SRC003,bbc_news_002.txt,3,Kauli yake inakuja wakati mwanasiasa wa upande wa upinzani Gadi Eisenkot akiongoza juhudi za kuunda serikali mpya ya Israel.
+11,SRC003,bbc_news_002.txt,4,"Katz ameishutumu Iran kwa kurejelea juhudi za kutengeneza silaha za nyuklia, akionya kuwa Israel inapaswa kujiandaa kwa hatua zozote zinazoweza kuchukuliwa na Tehran."
+12,SRC003,bbc_news_002.txt,5,Iran imekuwa ikisisitiza kuwa mpango wake wa nyuklia unalenga matumizi ya amani pekee.
+13,SRC003,bbc_news_002.txt,6,"Katz amesema ni wajibu wa Israel kujiandaa kwa hali yoyote inayoweza kujitokeza, akisisitiza umuhimu wa viongozi na wananchi kuungana katika kukabiliana na changamoto zinazokuja."
+14,SRC003,bbc_news_002.txt,7,"Ameongeza kuwa maadui wa Israel wanapaswa kufahamu kuwa, licha ya tofauti za kisiasa ndani ya nchi hiyo, Waisrael wameungana linapokuja suala la kulinda uwepo wao."
+15,SRC003,bbc_news_002.txt,8,"Katika uchaguzi wa bunge la Israel, hakuna chama wala muungano wa vyama uliopata viti vya kutosha kuunda serikali peke yake."
+16,SRC003,bbc_news_002.txt,9,"Rais wa Israel, baada ya kushauriana na viongozi wa vyama vya siasa, alimpa Gadi Eisenkot jukumu la kuunda serikali mpya."
+17,SRC012,bbc_news_003.txt,1,Viongozi duniani watuma rambirambi kufuatia shambulizi la risasi Poland
+18,SRC012,bbc_news_003.txt,2,Viongozi mbalimbali duniani wametuma salamu za rambirambi kwa Poland kufuatia shambulizi la risasi lililoua mama na binti yake.
+19,SRC012,bbc_news_003.txt,3,"Rais wa Ukraine, Volodymyr Zelensky, amesema nchi yake iko pamoja na jirani yake Poland baada ya tukio hilo, akilitaja shambulizi hilo kuwa uhalifu wa kutisha na wenye kuhuzunisha."
+20,SRC012,bbc_news_003.txt,4,"Kansela wa Ujerumani, Friedrich Merz, amesema ameshtushwa sana na yaliyotokea mjini Krakow."
+21,SRC012,bbc_news_003.txt,5,Ameongeza kuwa Ujerumani inaiunga mkono Poland kama rafiki na mshirika katika kipindi hiki kigumu.
+22,SRC012,bbc_news_003.txt,6,"Rais wa Ufaransa, Emmanuel Macron, pia amesema ameshtushwa na kuhuzunishwa na shambulizi hilo."
+23,SRC012,bbc_news_003.txt,7,"Kupitia ujumbe aliouchapisha kwenye ukurasa wake wa Facebook, ametuma salamu za pole na kueleza mshikamano wake kwa waathiriwa, familia zao na wapendwa wao."
+24,SRC012,bbc_news_003.txt,8,"Rais wa Tume ya Ulaya, Ursula von der Leyen, amesema Ulaya iko pamoja na Poland katika maombolezo na mshikamano."
+25,SRC012,bbc_news_003.txt,9,Pia amezitumia rambirambi familia zilizopoteza wapendwa wao na kuwashukuru maafisa wa polisi waliojitokeza kukabiliana na tukio hilo.
+26,SRC012,bbc_news_003.txt,10,"Waziri Mkuu wa Uingereza, Andy Burnham, amesema nchi yake iko bega kwa bega na wananchi wa Poland."
+27,SRC012,bbc_news_003.txt,11,"Ameeleza kuwa mawazo yake yako pamoja na familia zilizopoteza wapendwa wao, waliojeruhiwa na wote walioathiriwa na vitendo hivyo vya vurugu visivyo na maana."
+28,SRC013,bbc_news_004.txt,1,"Watu sita wauawa katika shambulizi la risasi Krakow, miili mingine mitatu yapatikana"
+29,SRC013,bbc_news_004.txt,2,"Watu sita wameuawa na wengine 16 kujeruhiwa baada ya mshambuliaji mwenye silaha kufyatua risasi kiholela akiwa ndani ya gari katika uwanja mkuu wa jiji la Krakow, kusini mwa Poland."
+30,SRC013,bbc_news_004.txt,3,"Kwa mujibu wa polisi, tukio hilo lilitokea mwendo wa saa tisa alasiri kwa saa za Poland, sawa na saa mbili usiku kwa saa za GMT."
+31,SRC013,bbc_news_004.txt,4,Miongoni mwa waliouawa ni raia mmoja wa Uingereza na raia watatu wa Poland.
+32,SRC013,bbc_news_004.txt,5,Utambulisho wa watu wengine wawili haujathibitishwa.
+33,SRC013,bbc_news_004.txt,6,Waliojeruhiwa ni pamoja na mshukiwa na maafisa wawili wa polisi.
+34,SRC013,bbc_news_004.txt,7,"Wizara ya Mambo ya Ndani imesema wageni wengine watano kutoka Uingereza, Ujerumani, Austria, Ureno na Urusi pia walijeruhiwa."
+35,SRC013,bbc_news_004.txt,8,Mshukiwa ametambuliwa kuwa raia wa Poland mwenye umri wa miaka 25.
+36,SRC013,bbc_news_004.txt,9,Polisi wamesema alikuwa amevaa mavazi yanayofanana na ya kijeshi na alitumia silaha za aina hiyo katika shambulizi hilo.
+37,SRC013,bbc_news_004.txt,10,Silaha nyingine pia zilipatikana ndani ya gari lake.
+38,SRC013,bbc_news_004.txt,11,"Waziri wa Mambo ya Ndani wa Poland amesema mshukiwa alikuwa ameshawishika kwa kiwango kikubwa na misimamo mikali, huku dalili zikionyesha kuwa alichochewa na itikadi za makundi yenye misimamo mikali ya mrengo wa kulia."
+39,SRC013,bbc_news_004.txt,12,"Waziri Mkuu Donald Tusk amesema vyombo vya usalama vinaendelea kupekua nyumba ya mshukiwa, ambako miili ya watu watatu, mwanamume mmoja na wanawake wawili, ilipatikana."
+40,SRC013,bbc_news_004.txt,13,Watu hao wanaaminika kuwa ndugu wa karibu wa mshukiwa.
+41,SRC013,bbc_news_004.txt,14,"Wakati uchunguzi ukiendelea kuhusu tukio hilo ambalo ni nadra kutokea nchini Poland, wananchi wameanza kupeleka maua na jumbe za rambirambi katika eneo la shambulizi, katika uwanja wa Main Market Square mjini Krakow."
+42,SRC013,bbc_news_004.txt,15,Mamlaka za jiji hilo pia zimetangaza kipindi cha maombolezo.
+43,SRC013,bbc_news_004.txt,16,"Shahidi mmoja wa tukio hilo aliiambia BBC: ""Bado niko hai."
+44,SRC013,bbc_news_004.txt,17,"Huenda afya yangu si nzuri kabisa, lakini bado niko hai."""
+45,SRC014,bbc_news_005.txt,1,Mashambulizi ya anga yalipua makao makuu ya Aramco Riyadh
+46,SRC014,bbc_news_005.txt,2,"Milipuko kadhaa mikubwa imesikika katika mji mkuu wa Saudi Arabia, Riyadh, Jumapili asubuhi, kabla ya mamlaka kutangaza kuwa mifumo ya ulinzi wa anga imedungua makombora kadhaa ya balistiki na cruise yaliyorushwa na waasi wa Houthi kutoka Yemen."
+47,SRC014,bbc_news_005.txt,3,Makombora hayo yalikuwa yakielekezwa Riyadh pamoja na maeneo ya mashariki na kusini mwa Saudi Arabia.
+48,SRC014,bbc_news_005.txt,4,"Msemaji wa muungano wa kijeshi unaoongozwa na Saudi Arabia, Meja Jenerali Turki al Maliki, amesema mifumo ya ulinzi wa anga ilidungua makombora matatu ya balistiki na kombora moja la cruise katika hatua ya kwanza."
+49,SRC014,bbc_news_005.txt,5,"Baadaye, mamlaka zilisema kuwa zimefanikiwa kuzuia mashambulizi mengine ya makombora mawili ya cruise yaliyokuwa yakielekezwa Riyadh na maeneo ya kusini mwa nchi hiyo."
+50,SRC014,bbc_news_005.txt,6,"Mashuhuda wameiambia AFP kuwa jengo la kampuni ya mafuta ya Saudi Arabia, Aramco, liliharibiwa katika mashambulizi ya anga yaliyotokea katika eneo la kibiashara la Riyadh."
+51,SRC014,bbc_news_005.txt,7,Shahidi mmoja alisema kwa uhakika kuwa mnara wa Aramco katika eneo la King Abdullah Financial District ulikuwa umeshambuliwa.
+52,SRC014,bbc_news_005.txt,8,"Taarifa hiyo ilitolewa baada ya muungano wa kijeshi unaoongozwa na Saudi Arabia kutangaza kuwa ulikuwa umedungua makombora mawili ya balistiki yaliyorushwa kuelekea Riyadh, kufuatia milipuko mikubwa iliyosikika katika mji mkuu huo."
+53,SRC014,bbc_news_005.txt,9,Shahidi mwingine aliiambia Reuters kuwa idara ya ulinzi wa raia ya Saudi Arabia ilikuwa imetoa tahadhari kwa wakazi wa eneo la Riyadh muda mfupi kabla ya milipuko hiyo.
+54,SRC014,bbc_news_005.txt,10,"Baadaye, maafisa wa Saudi Arabia walisema tishio hilo lilikuwa limeondolewa."
+55,SRC014,bbc_news_005.txt,11,"Saudi Arabia pia ilitangaza kudungua makombora mawili ya kusafiri angani, maarufu kama cruise missiles, yaliyokuwa yakielekea Riyadh na maeneo ya kusini mwa nchi hiyo."
+56,SRC014,bbc_news_005.txt,12,"Tangu mapigano kuanza tena, waasi wa Houthi wamekuwa wakishambulia mara kwa mara viwanja vya ndege, bandari na miundombinu ya mafuta ya Saudi Arabia."
+57,SRC014,bbc_news_005.txt,13,Nchi hiyo nayo imeendelea kufanya mashambulizi ya anga nchini Yemen.
+58,SRC014,bbc_news_005.txt,14,Shambulizi hilo limetokea siku moja baada ya Wizara ya Afya ya Houthi nchini Yemen kusema kuwa mashambulizi ya anga ya Saudi Arabia karibu na mji mkuu Sanaa yaliua watu wasiopungua 33.
+59,SRC014,bbc_news_005.txt,15,Maafisa wa Saudi Arabia walisema walikuwa wakichunguza taarifa hiyo.
+60,SRC015,bbc_news_006.txt,1,Polisi wakamata kilo 454 za methamphetamine Kenya
+61,SRC015,bbc_news_006.txt,2,Polisi nchini Kenya wamekamata kilo 454 za dawa za kulevya aina ya methamphetamine zenye thamani inayokadiriwa kuwa Sh3.6 bilioni katika operesheni iliyofanyika Kaunti ya Kwale.
+62,SRC015,bbc_news_006.txt,3,"Raia watatu wa kigeni, wakiwemo wanaume wawili kutoka Tanzania na mwanamke mmoja kutoka Uganda, wamekamatwa kufuatia operesheni hiyo iliyoongozwa na taarifa za kijasusi."
+63,SRC015,bbc_news_006.txt,4,"Operesheni hiyo iliratibiwa na Kitengo cha Kitaifa cha Kupambana na Dawa za Kulevya (NANB), kanda ya Pwani, kwa ushirikiano na maafisa wa usalama kutoka Tanzania."
+64,SRC015,bbc_news_006.txt,5,"Uchunguzi ulianza baada ya mamlaka nchini Tanzania kumkamata raia mmoja wa nchi hiyo mwenye umri wa miaka 45, Novemba 5, 2026, kwa tuhuma za kujihusisha na biashara ya dawa za kulevya."
+65,SRC015,bbc_news_006.txt,6,"Baadaye mshukiwa huyo alikabidhiwa kwa maafisa wa Kenya katika mpaka wa Lunga Lunga na Horohoro, hatua iliyowasaidia wachunguzi kupata taarifa muhimu kuhusu mtandao unaodaiwa kuendesha biashara hiyo haramu."
+66,SRC015,bbc_news_006.txt,7,Taarifa za kijasusi zilizowaunganisha washukiwa na ukamataji mwingine wa kilo 259 za dawa zinazoshukiwa kuwa methamphetamine na kokeni nchini Tanzania ziliwezesha vyombo vya usalama kupanua uchunguzi na hatimaye kupata kilo 454 za dawa hizo Kwale.
+67,SRC015,bbc_news_006.txt,8,"Akizungumzia tishio la dawa za kulevya na pombe haramu Oktoba 21, Naibu Rais Kithure Kindiki alisema bidhaa hizo ni miongoni mwa vitisho vikubwa vitatu vinavyoikabili Kenya."
+68,SRC015,bbc_news_006.txt,9,Alionya kuwa tatizo hilo linaweza kufuta mafanikio ambayo nchi imepata katika maendeleo yake.
+69,SRC016,bbc_news_007.txt,1,Bangladesh yaishinikiza India kumrejesha Sheikh Hasina
+70,SRC016,bbc_news_007.txt,2,"Bangladesh imesema imeiomba India kumrejesha aliyekuwa Waziri Mkuu wa nchi hiyo, Sheikh Hasina, kupitia makubaliano ya nchi hizo kuhusu kukabidhiana washukiwa wa uhalifu."
+71,SRC016,bbc_news_007.txt,3,"Waziri wa Sheria wa Bangladesh, Mohammad Asaduzzaman, amesema serikali yake imekamilisha taratibu zote za kisheria zinazohitajika katika kesi inayomkabili Hasina na kwamba atashughulikiwa kwa mujibu wa sheria."
+72,SRC016,bbc_news_007.txt,4,"Akizungumza na waandishi wa habari Jumapili, baada ya kuzinduliwa kwa warsha ya mafunzo katika hoteli moja jijini Dhaka, Asaduzzaman alisema serikali haitachukua hatua kwa kuongozwa na hisia, bali itatekeleza matakwa ya sheria."
+73,SRC016,bbc_news_007.txt,5,"Alipoulizwa iwapo kesi ya Hasina inaweza kusikilizwa katika mahakama za India, waziri huyo alisema hilo ni suala la serikali ya India, akisisitiza kuwa Bangladesh tayari imewasilisha ombi la kumrejesha chini ya mkataba wa makabidhiano ya washukiwa."
+74,SRC016,bbc_news_007.txt,6,"Amesema endapo India itamkabidhi Hasina, serikali ya Bangladesh itafuata taratibu za kisheria katika kumshughulikia."
+75,SRC016,bbc_news_007.txt,7,"Akijibu swali kuhusu uwezekano wa kumrejesha Hasina kupitia makubaliano ya kubadilishana wafungwa, licha ya kuwa nchini India kama mgeni wa serikali badala ya mfungwa, Asaduzzaman alisema kwa mtazamo wake, Hasina ni mhalifu."
+76,SRC017,bbc_news_008.txt,1,"Bei za mafuta ya ndege zapanda, mashirika ya ndege yawalenga abiria matajiri"
+77,SRC017,bbc_news_008.txt,2,Kupanda kwa kasi kwa bei ya mafuta ya ndege kufuatia vita na Iran kumeongeza gharama za uendeshaji kwa mashirika ya ndege.
+78,SRC017,bbc_news_008.txt,3,"Ili kukabiliana na hali hiyo na kuongeza mapato, baadhi ya mashirika hayo yanawekeza zaidi katika huduma za kifahari zinazolenga abiria wenye uwezo mkubwa wa kifedha."
+79,SRC017,bbc_news_008.txt,4,"Kwa mujibu wa shirika la habari la AFP, mashirika ya ndege nchini Marekani yanaongeza nafasi za viti vya daraja la juu ndani ya ndege zao, yakilenga abiria walio tayari kulipa zaidi ili kupata huduma bora na starehe zaidi wakati wa safari."
+80,SRC017,bbc_news_008.txt,5,"Profesa wa uchumi wa usafiri wa anga katika Chuo Kikuu cha Purdue, jimbo la Indiana, anasema kiti kimoja cha daraja la biashara kinaweza kuchukua nafasi sawa na viti vinne vya kawaida, lakini kikatoza nauli mara tano hadi sita zaidi."
+81,SRC017,bbc_news_008.txt,6,Shirika la American Airlines limesema mapato yake kutokana na huduma za daraja la juu yaliongezeka kwa asilimia 18.5 katika robo ya hivi karibuni ya mwaka.
+82,SRC017,bbc_news_008.txt,7,"Kwa sasa, karibu nusu ya mapato yake yote ya tiketi yanatokana na asilimia 30 tu ya viti vyake vinavyolipiwa kwa gharama ya juu."
+83,SRC017,bbc_news_008.txt,8,"Mashirika mengine, yakiwemo Delta, United na British Airways, pia yanaongeza uwekezaji katika huduma za kifahari, ikiwemo viti vya starehe zaidi, huduma maalumu na vyumba vya mapumziko katika viwanja vya ndege."
+84,SRC017,bbc_news_008.txt,9,"Mtendaji mmoja wa Delta amesema kuwa katika baadhi ya safari, viti vya daraja la juu vinaweza kufikia asilimia 70 ya jumla ya viti vya ndege hizo katika siku zijazo."
+85,SRC018,bbc_news_009.txt,1,Iran yaua wanaume watatu waliotuhumiwa kuwa wapelelezi wa Israel na Marekani
+86,SRC018,bbc_news_009.txt,2,Iran imetekeleza hukumu ya kifo dhidi ya wanaume watatu waliokamatwa wakati wa maandamano ya kupinga serikali yaliyofanyika Januari mwaka 1404 katika mji wa Karaj.
+87,SRC018,bbc_news_009.txt,3,"Shirika la habari la Mizan, linalohusishwa na idara ya mahakama nchini Iran, limethibitisha kuwa Hassan Deoband, Hamid Kazemi na Reza Zanganeh waliuawa kwa kutekelezwa hukumu hiyo Jumapili asubuhi."
+88,SRC018,bbc_news_009.txt,4,"Kwa mujibu wa shirika hilo, watatu hao walihukumiwa kifo pamoja na kunyang'anywa mali zao baada ya kupatikana na hatia ya kushirikiana kiutendaji na Israel na Marekani, pamoja na kushiriki maandamano hayo wakiwa na silaha Januari 8 na 9."
+89,SRC018,bbc_news_009.txt,5,Walituhumiwa pia kuhusika na uharibifu na uchomaji wa maeneo ya umma pamoja na miundombinu ya umeme.
+90,SRC018,bbc_news_009.txt,6,"Mizan imesema hukumu hizo zilitekelezwa baada ya kuidhinishwa na Mahakama Kuu ya Iran, huku mali za waliohukumiwa zikitarajiwa kutaifishwa."
+91,SRC018,bbc_news_009.txt,7,"Shirika hilo limeongeza kuwa watu wengine 10 walikamatwa kuhusiana na kesi hiyo, huku washtakiwa wengine wakihukumiwa vifungo vya kati ya miaka mitano na 10 jela."
+92,SRC004,dw_news_001.txt,1,"Boti ya wahamiaji yazama Senegal, watu wasiopungua 21 wafariki"
+93,SRC004,dw_news_001.txt,2,"Watu wasiopungua 21 wamefariki baada ya boti iliyokuwa imebeba wahamiaji kuzama katika bahari ya Atlantiki, karibu na Kébémer, kaskazini-magharibi mwa Senegal."
+94,SRC004,dw_news_001.txt,3,"Eneo hilo liko takriban kilomita 180 kaskazini mwa mji mkuu, Dakar."
+95,SRC004,dw_news_001.txt,4,"Wizara ya Mambo ya Ndani ya Senegal ilisema kufikia Jumamosi jioni, Novemba 7, waokoaji walikuwa wamepata miili 21 na kumwokoa mtu mmoja."
+96,SRC004,dw_news_001.txt,5,Wizara ilisema idadi hiyo ni ya awali na kwamba shughuli za utafutaji na uokoaji zinaendelea.
+97,SRC004,dw_news_001.txt,6,Haikutaja idadi ya watu waliokuwa ndani ya boti hiyo.
+98,SRC004,dw_news_001.txt,7,"Katika tukio jingine, mamlaka za Senegal zilisema ziliizuia Ijumaa boti iliyokuwa ikielekea katika eneo la Uhispania ikiwa na wahamiaji 142 kutoka nchi mbalimbali za Afrika Magharibi."
+99,SRC004,dw_news_001.txt,8,Serikali ilisema itaimarisha ushirikiano na nchi jirani ili kukabiliana na mitandao inayowavusha watu kinyume cha sheria.
+100,SRC004,dw_news_001.txt,9,El Hierro yatangaza hali ya dharura
+101,SRC004,dw_news_001.txt,10,"Mamlaka za El Hierro, mojawapo ya Visiwa vya Kanari vya Uhispania, zilitangaza hali ya dharura Ijumaa, Novemba 6, baada ya ongezeko kubwa la wahamiaji wanaowasili kwa boti."
+102,SRC004,dw_news_001.txt,11,"Kwa mujibu wa mamlaka za kisiwa hicho, zaidi ya watu 3,300 wamewasili kwa takriban boti 30 tangu mwanzoni mwa Novemba."
+103,SRC004,dw_news_001.txt,12,"Mkuu wa baraza la El Hierro, Alpidio Armas, aliiambia televisheni ya umma ya Uhispania kuwa hatua hiyo inalenga kurahisisha uratibu na kupata msaada zaidi kutoka kwa serikali ya eneo la Kanari na serikali kuu ya Uhispania."
+104,SRC004,dw_news_001.txt,13,"Alisema ongezeko hilo limeongeza shinikizo kwa huduma za kisiwa hicho, ikiwemo hospitali yake."
+105,SRC004,dw_news_001.txt,14,"El Hierro ina wakazi wapatao 11,400."
+106,SRC004,dw_news_001.txt,15,06.11.2026
+107,SRC005,dw_news_002.txt,1,ANC yaelekea kupata matokeo mabaya zaidi katika historia yake
+108,SRC005,dw_news_002.txt,2,Chama cha African National Congress (ANC) cha Afrika Kusini kinaelekea kupata matokeo yake mabaya zaidi katika historia ya uchaguzi nchini humo.
+109,SRC005,dw_news_002.txt,3,"Kufikia Ijumaa, matokeo ya awali ya uchaguzi wa serikali za mitaa uliofanyika Jumatano yalionyesha kuwa ANC bado inaongoza kwa takriban theluthi moja ya kura, huku karibu asilimia 90 ya kura zikiwa zimehesabiwa."
+110,SRC005,dw_news_002.txt,4,Matokeo ya mwisho yanatarajiwa kufikia Jumapili.
+111,SRC005,dw_news_002.txt,5,"Kiwango hicho ni cha chini kuliko takriban asilimia 46 ambazo ANC ilipata katika uchaguzi wa serikali za mitaa wa mwaka 2021 na zaidi kidogo ya asilimia 40 ilizopata katika uchaguzi mkuu wa 2024, ilipopoteza wingi wake bungeni."
+112,SRC005,dw_news_002.txt,6,Chama hicho kilichoongoza mapambano dhidi ya ubaguzi wa rangi kiliingia madarakani mwaka 1994 na kilipata karibu asilimia 70 ya kura katika uchaguzi mkuu wa mwaka 2004.
+113,SRC005,dw_news_002.txt,7,06.11.2026
+114,SRC006,dw_news_003.txt,1,Vyama vyajiandaa kujadiliana kuhusu miungano
+115,SRC006,dw_news_003.txt,2,"Chama cha Democratic Alliance (DA) kilikuwa cha pili kwa takriban asilimia 24 ya kura, kutoka karibu asilimia 22 katika uchaguzi wa serikali za mitaa wa 2021."
+116,SRC006,dw_news_003.txt,3,"DA inaelekea kuendelea kuongoza Cape Town na ilikuwa mbele pia mjini Johannesburg, kitovu cha fedha cha nchi hiyo, ambako kiongozi wake wa zamani Helen Zille aliongoza kampeni yake."
+117,SRC006,dw_news_003.txt,4,"Chama cha uMkhonto weSizwe (MKP) cha rais wa zamani Jacob Zuma, kilichoshiriki kwa mara ya kwanza katika uchaguzi wa serikali za mitaa, kilikuwa cha tatu kwa zaidi kidogo ya asilimia tisa ya kura."
+118,SRC006,dw_news_003.txt,5,"MKP ilikuwa ikiongoza katika manispaa ya eThekwini, inayojumuisha mji wa bandari wa Durban katika jimbo la KwaZulu-Natal."
+119,SRC006,dw_news_003.txt,6,"Katika miji kadhaa mikubwa, huenda hakuna chama kitakachopata viti vya kutosha kuongoza peke yake."
+120,SRC006,dw_news_003.txt,7,"Kiongozi wa DA, Geordin Hill-Lewis, amesema chama chake tayari kimewasiliana na vyama kadhaa kuhusu kuunda serikali za mitaa."
+121,SRC006,dw_news_003.txt,8,"Hata hivyo, profesa wa sayansi ya siasa Amanda Gouws ameliambia AFP kuwa baadhi ya miungano ya awali haikudumu, hali inayofanya iwe vigumu kuboresha huduma kwa wananchi."
+122,SRC006,dw_news_003.txt,9,06.11.2026
+123,SRC007,dw_news_004.txt,1,Somalia yatumbukia zaidi kwenye mgogoro wa kisiasa na kiusalama
+124,SRC007,dw_news_004.txt,2,"Somalia imetumbukia kwenye mgogoro mkubwa wa kisiasa kufuatia hatua ya rais Hassan Sheikh Mahmoud, kutuhumiwa na upinzani kupeleka wanajeshi kumkamata Jaji mkuu wa mahakama ya juu zaidi nchini humo."
+125,SRC007,dw_news_004.txt,3,Hatua ya rais inadaiwa kuchukuliwa baada ya mahakama hiyo kubatilisha nyongeza ya muhula wa rais Mahmoud kubakia madarakani.
+126,SRC007,dw_news_004.txt,4,"Somalia inakabiliwa na migogoro mingi kwa wakati mmoja, huku ushindani wa kisiasa ukigeuka kuwa vurugu."
+127,SRC007,dw_news_004.txt,5,"Wakati huo huo, serikali inapoteza uungwaji mkono wa kimataifa katika mapambano yake dhidi ya kundi lenye nguvu la wanamgambo la Al-Shabaab."
+128,SRC007,dw_news_004.txt,6,Rais Mahmoud amekuwa akijaribu kuielekeza Somalia kwenye hatua ya kufanya chaguzi za kidemokrasia na kuondoa mfumo wa chaguzi zinazoendeshwa na koo za kikabila lakini wapinzani wake wanayaona mageuzi hayo kama mpango wa kiongozi huyo wa kutaka kubakia madarakani.
+129,SRC007,dw_news_004.txt,7,05.11.2026
+130,SRC008,dw_news_005.txt,1,Umoja wa Mataifa kutathmini hali ya haki za binadamu nchini Tanzania
+131,SRC008,dw_news_005.txt,2,Baraza la Haki za Binadamu la Umoja wa Mataifa litakutana mjini Geneva hivi leo ili kutathmini rekodi ya Tanzania katika masuala ya haki za binadamu kupitia utaratibu rasmi unaofanyika kila baada ya miaka mitano.
+132,SRC008,dw_news_005.txt,3,"Tathmini hiyo itachunguza hatua zilizochukuliwa na Tanzania katika kutekeleza mapendekezo yaliyotolewa wakati wa mapitio ya miaka ya 2011, 2016 na 2021, pamoja na maendeleo ya hivi karibuni katika masuala ya haki za binadamu nchini humo."
+133,SRC008,dw_news_005.txt,4,"Ujumbe wa Tanzania utaongozwa na Waziri wa Katiba na Sheria, Abdallah Hamis Ulega, ambaye atawasilisha maendeleo yaliyopatikana, changamoto zilizopo na hatua zilizochukuliwa ili kutekeleza mapendekezo yaliyotolewa katika vikao vilivyopita."
+134,SRC008,dw_news_005.txt,5,"Mapendekezo yatakayotolewa leo jioni, yanatarajiwa kuidhinishwa rasmi Novemba 13, 2026."
+135,SRC008,dw_news_005.txt,6,Mfumo huo wa mapitio kuhusu hali ya haki za binadamu unaofahamika kama Universal Periodic Review (UPR) unahusisha nchi zote 193 wanachama wa Umoja wa Mataifa.
+136,SRC008,dw_news_005.txt,7,04.11.2026
+137,SRC009,dw_news_006.txt,1,Uchaguzi wa serikali za mitaa Afrika Kusini waipima ANC
+138,SRC009,dw_news_006.txt,2,"Waafrika Kusini wameanza kupiga kura Jumatano katika uchaguzi wa serikali za mitaa unaoweza kukiongezea hasara chama cha African National Congress, ANC."
+139,SRC009,dw_news_006.txt,3,"Chama hicho cha Nelson Mandela kinakabiliwa na kutoridhika kwa wananchi kuhusu huduma duni za maji na umeme, uhalifu, ukosefu wa ajira na uhaba wa nyumba zinazomudika."
+140,SRC009,dw_news_006.txt,4,"Katika uchaguzi uliopita wa mitaa mwaka 2021, ANC ilipata chini ya asilimia 50 ya kura kwa mara ya kwanza."
+141,SRC009,dw_news_006.txt,5,Kura za maoni zinaashiria kwamba safari hii inaweza kushuka chini ya asilimia 40.
+142,SRC009,dw_news_006.txt,6,Johannesburg ni mojawapo ya maeneo yenye ushindani mkubwa.
+143,SRC009,dw_news_006.txt,7,"Chama cha Democratic Alliance, DA, kinaweza kupata kura nyingi zaidi kuliko muungano dhaifu unaoongozwa na ANC."
+144,SRC009,dw_news_006.txt,8,DA imemsimamisha Helen Zille kuwania umeya.
+145,SRC009,dw_news_006.txt,9,"Ushindani mkali pia unatarajiwa Tshwane na Durban, ambako chama cha MK cha rais wa zamani Jacob Zuma kinatoa changamoto kubwa."
+146,SRC009,dw_news_006.txt,10,"Wapigakura wanachagua madiwani, ambao baadaye watawachagua mameya."
+147,SRC009,dw_news_006.txt,11,Uchaguzi huu unaonekana kuwa kipimo cha hali ya kisiasa kabla ya uchaguzi wa kitaifa wa 2029.
+148,SRC009,dw_news_006.txt,12,Zaidi ya watu milioni 29 wamejiandikisha kupiga kura.
+149,SRC009,dw_news_006.txt,13,"Vituo vitafungwa saa tatu usiku kwa saa za Afrika Kusini, na matokeo yanatarajiwa Jumapili."
+150,SRC009,dw_news_006.txt,14,04.11.2026
+151,SRC010,dw_news_007.txt,1,IGP Douglas Kanja akana Twaha Mwaipaya kushikiliwa na Polisi ya Kenya
+152,SRC010,dw_news_007.txt,2,"Inspekta Jenerali wa Polisi nchini Kenya, Douglas Kanja, ameieleza Mahakama Kuu kwamba mwanaharakati wa Tanzania Twaha Mwaipaya hayuko mikononi mwa polisi, huku mahali aliko kukiendelea kuwa kitendawili."
+153,SRC010,dw_news_007.txt,3,"Baada ya kufika mbele ya Jaji Alexander Muteti mjini Nairobi Jumanne, Kanja alisema hana taarifa kwamba maafisa wake walimkamata au kumzuilia Mwaipaya katika kituo chochote nchini humo."
+154,SRC010,dw_news_007.txt,4,"Mwanaharakati huyo anaripotiwa kutekwa Oktoba 25 katika eneo la Kamulu, karibu na Nairobi."
+155,SRC010,dw_news_007.txt,5,"Kanja amethibitisha kwamba taarifa ya kutoweka kwake iliwasilishwa katika kituo cha polisi cha Ruai, na kwamba uchunguzi unaendelea."
+156,SRC010,dw_news_007.txt,6,"Akihojiwa na wakili Martha Karua kuhusu madai ya kuongezeka kwa visa vya utekaji, Kanja ameitetea idara yake, akisema polisi hawateki watu wala kuwatowesha."
+157,SRC010,dw_news_007.txt,7,Amesisitiza kwamba utekaji ni uhalifu unaochunguzwa.
+158,SRC010,dw_news_007.txt,8,"Hata hivyo, Karua amehoji kasi ya uchunguzi na kuitaka idara hiyo kutoa majibu kuhusu mahali aliko Mwaipaya."
+159,SRC010,dw_news_007.txt,9,Kanja aliitwa kufika mahakamani binafsi baada ya mamlaka kushindwa kumfikisha mwanaharakati huyo mbele ya mahakama kama ilivyoagizwa.
+160,SRC010,dw_news_007.txt,10,"Kesi itaendelea Novemba 9, ambapo mtu aliyekuwa na Mwaipaya wakati wa tukio anatarajiwa kutoa ushahidi."
+161,SRC010,dw_news_007.txt,11,Ameelekezwa kuwasiliana na Wakala wa Ulinzi wa Mashahidi kuhusu utaratibu wa kutoa ushahidi wake.
+162,SRC010,dw_news_007.txt,12,03.11.2026
+163,SRC011,dw_news_008.txt,1,Marekani kuziondoa Afrika Kusini na Rwanda katika mpango wa AGOA
+164,SRC011,dw_news_008.txt,2,Marekani imetangaza kuziondoa Afrika Kusini na Rwanda katika mpango wa biashara wa AGOA unaozipatia nchi za Afrika zilizopo Kusini mwa Jangwa la Sahara fursa ya kuuza bidhaa zake nchini humo bila ushuru.
+165,SRC011,dw_news_008.txt,3,Uamuzi huo utaanza kutekelezwa Januari Mosi mwakani.
+166,SRC011,dw_news_008.txt,4,Washington imesema nchi hizo mbili zimekiuka vigezo vya mpango huo kwa hatua zinazodhoofisha biashara na uwekezaji wa Marekani pamoja na maslahi yake ya usalama na sera za nje.
+167,SRC011,dw_news_008.txt,5,"Afrika Kusini, ambayo ndiyo mnufaika mkuu wa AGOA, imeelezea masikitiko yake na kusema itaendelea kusaidia sekta zitakazoathirika huku ikitafuta masoko mbadala kwa ajili ya bidhaa zake."
+168,SRC011,dw_news_008.txt,6,"Kwa upande wa Rwanda, Marekani imeongeza shinikizo la kiuchumi ikiihusisha Kigali na uungaji mkono wa waasi wa M23 mashariki mwa Jamhuri ya Kidemokrasia ya Kongo, madai ambayo Rwanda imeendelea kuyakanusha."
+169,SRC011,dw_news_008.txt,7,03.11.2026
+170,SRC019,story_zawadi_kwa_bibi.txt,1,Zawadi kwa bibi
+171,SRC019,story_zawadi_kwa_bibi.txt,2,Sibongile Mnkandla
+172,SRC019,story_zawadi_kwa_bibi.txt,3,Bibi anakuja kutembelea.
+173,SRC019,story_zawadi_kwa_bibi.txt,4,"Na kila mara humletea Tabo njugu karanga na matunda ya mwituni, au mahindi na tikiti maji wakati mwingine."
+174,SRC019,story_zawadi_kwa_bibi.txt,5,Tabo naye anataka kumpa Bibi kitu cha pekee.
+175,SRC019,story_zawadi_kwa_bibi.txt,6,"Kitabu kingekuwa zawadi nzuri, lakini je, Bibi anaweza kusoma?"
+176,SRC019,story_zawadi_kwa_bibi.txt,7,"Kama angeenda kwenye duka kubwa, je, angepata kitu kizuri?"
+177,SRC019,story_zawadi_kwa_bibi.txt,8,"""Tumpatie mfuko,"" Tabo anasema huku akitabasamu."
+178,SRC019,story_zawadi_kwa_bibi.txt,9,"""Mfuko mkubwa na imara wa rangi ya bluu."""
+179,SRC019,story_zawadi_kwa_bibi.txt,10,Mama anatoa kitambaa walichonunua dukani.
+180,SRC019,story_zawadi_kwa_bibi.txt,11,Anakitandaza na kuanza kukata.
+181,SRC019,story_zawadi_kwa_bibi.txt,12,"Kwanza, pande mbili kuu ambazo ni kubwa na pana."
+182,SRC019,story_zawadi_kwa_bibi.txt,13,Kisha vipande vingine viwili vidogo ili kuipa umbo.
+183,SRC019,story_zawadi_kwa_bibi.txt,14,Tabo anavikunja pamoja na pande hizo mbili kuu.
+184,SRC019,story_zawadi_kwa_bibi.txt,15,Anatazama huku Mama akichukua muundo huo tena.
+185,SRC019,story_zawadi_kwa_bibi.txt,16,Anakata sehemu ya chini katika vipande viwili virefu.
+186,SRC019,story_zawadi_kwa_bibi.txt,17,Hivi ndivyo vitakavyofanya mfuko huo uwe imara sana.
+187,SRC019,story_zawadi_kwa_bibi.txt,18,Tabo anavikunja vipande hivyo huku Mama akichukua tena muundo.
+188,SRC019,story_zawadi_kwa_bibi.txt,19,Anakata vipande vinne vya kamba ambavyo ni vipana na virefu.
+189,SRC019,story_zawadi_kwa_bibi.txt,20,Viwili vitashonwa pamoja ili kutengeneza kamba moja.
+190,SRC019,story_zawadi_kwa_bibi.txt,21,Hii itapa mfuko huo nguvu maradufu.
+191,SRC019,story_zawadi_kwa_bibi.txt,22,Kisha Mama anatoa cherehani yake.
+192,SRC019,story_zawadi_kwa_bibi.txt,23,Anauunganisha vipande vyote ili kutengeneza mfuko wa Bibi.
+193,SRC019,story_zawadi_kwa_bibi.txt,24,"Anampa Tabo, ambaye anatabasamu na kusema, ""Asante Mama, kwa kutengenezea Bibi huu mfuko wa bluu!"""

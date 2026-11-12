@@ -1,0 +1,8 @@
+Task 3 inter-annotator agreement
+STATUS: provisional heuristic annotations; replace with human labels.
+Tokens: 600
+Observed agreement: 0.9900
+Expected agreement: 0.2478
+Cohen's kappa: 0.9867
+Disagreements: 6
+Interpretation: kappa measures agreement beyond chance; interpret the final human result with the annotation context and tag frequencies.

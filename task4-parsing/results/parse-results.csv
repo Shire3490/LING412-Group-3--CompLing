@@ -1,0 +1,11 @@
+id,pattern,sentence,parsed,tree_count
+S01,intransitive,Watoto wanacheza,yes,1
+S02,transitive,Mama anatoa kitambaa,yes,1
+S03,ditransitive,Tabo anampa Bibi mfuko,yes,2
+S04,copular_adjective,Kitabu ni kizuri,yes,1
+S05,locative,Mtoto yuko katika nyumba,yes,1
+S06,verb_pp,Bibi anakuja katika nyumba,yes,1
+S07,transitive_pp,Mama anatoa kitambaa katika jikoni,yes,1
+S08,transitive,Watu wanakula chakula,yes,1
+S09,transitive,Mwanafunzi anasoma kitabu,yes,1
+S10,locative,Mti uko katika bustani,yes,1

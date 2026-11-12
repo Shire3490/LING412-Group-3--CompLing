@@ -1,0 +1,26 @@
+Task 3 baseline POS tagger evaluation
+Model: word-to-tag majority lookup with training-set fallback
+Training tokens: 480
+Test tokens: 120
+Accuracy: 0.7000
+Common recorded errors:
+- Mkuu: expected=PROPN, predicted=NOUN
+- Uingereza: expected=PROPN, predicted=VERB
+- Andy: expected=PROPN, predicted=VERB
+- Burnham: expected=PROPN, predicted=VERB
+- bega: expected=NOUN, predicted=VERB
+- bega: expected=NOUN, predicted=VERB
+- Ameeleza: expected=PROPN, predicted=VERB
+- mawazo: expected=NOUN, predicted=VERB
+- yako: expected=NOUN, predicted=VERB
+- wote: expected=PRON, predicted=VERB
+- vitendo: expected=NOUN, predicted=VERB
+- hivyo: expected=NOUN, predicted=VERB
+- visivyo: expected=NOUN, predicted=VERB
+- maana: expected=NOUN, predicted=VERB
+- Watu: expected=PROPN, predicted=VERB
+- sita: expected=NOUN, predicted=VERB
+- miili: expected=NOUN, predicted=VERB
+- Watu: expected=PROPN, predicted=VERB
+- sita: expected=NOUN, predicted=VERB
+- 16: expected=NUM, predicted=VERB
