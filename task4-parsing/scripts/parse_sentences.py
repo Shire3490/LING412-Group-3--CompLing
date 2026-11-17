@@ -7,7 +7,7 @@ from nltk.parse import ChartParser
 
 TASK_DIR = Path(__file__).resolve().parent.parent
 GRAMMAR_FILE = TASK_DIR / "kiswahili.cfg"
-EXAMPLES_FILE = TASK_DIR / "data" / "examples.csv"
+EXAMPLES_FILE = TASK_DIR / "data" / "cleaned-examples.csv"
 TREES_FILE = TASK_DIR / "results" / "parse-trees.txt"
 RESULTS_FILE = TASK_DIR / "results" / "parse-results.csv"
 
