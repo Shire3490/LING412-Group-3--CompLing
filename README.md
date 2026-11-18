@@ -1,1 +1,1 @@
-# LING412-Group-3--CompLing
+# LING412-Group-3-assignment
